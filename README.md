@@ -1,1 +1,4 @@
-"# PassPortJS-NodeJS" 
+# PassPortJS
+
+---npm install
+---npm start
